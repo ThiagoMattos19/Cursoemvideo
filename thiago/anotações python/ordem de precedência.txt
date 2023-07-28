@@ -1,0 +1,4 @@
+1- parênteses()
+2 - potencia**
+3 - multiplicação*, diovisao/, divisao inteira//, divisão real%
+4 - soma, subtração +-
